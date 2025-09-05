@@ -4,7 +4,7 @@
 
 
 
-I'm a cybersecurity analyst with 1 year of experience, driven by a passion for data protection and the fight against cybercrime.  Actively developing skills to stay ahead of evolving threats.  Looking to collaborate on open-source projects that contribute to a safer digital landscape.
+I'm a cybersecurity analyst with 3 year of experience, driven by a passion for data protection and the fight against cybercrime.  Actively developing skills to stay ahead of evolving threats.  Looking to collaborate on open-source projects that contribute to a safer digital landscape.
 
 ## Objective
 
